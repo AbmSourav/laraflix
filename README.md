@@ -1,0 +1,2 @@
+# laraflix
+A Laravel application
